@@ -128,8 +128,7 @@ python real_time_recognition.py
 ```  
 Press `q` to exit the webcam feed.  
 
-## License  
-This project is open-source and available under the MIT License.
+
 
 
 
